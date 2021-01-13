@@ -4,7 +4,7 @@ Projet de fin d'etude en pour l'obtention d'un double master :
  - **Master Web Intelligence et Science Des Données (WISD) à l'Université Sidi Mohamed Ben Abdallah de Fès**
  - **Master Exploration Informatique Des Données Et Décisionnel (EID) l'Université Sorbonne Paris Nord** 
 
-# Résumé du projet
+# Résumé
 
 *L'irruption des véhicules autonomes dans le secteur des transports est irréversible. Toutefois,
 le passage des véhicules conventionnels aux véhicules autonomes ne se fera pas du jour au
