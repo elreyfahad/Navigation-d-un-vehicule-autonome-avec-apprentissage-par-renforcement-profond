@@ -1,8 +1,8 @@
 # Navigation d'un véhicule autonome avec apprentissage par renforcement profond 
 
 Projet de fin d'etude en pour l'obtention d'un double master : 
- **Master Web Intelligence et Science Des Données (WISD) à *l'Université Sidi Mohamed Ben Abdallah de Fès**
- **Master Exploration Informatique Des Données Et Décisionnel (EID) *l'Université Sorbonne Paris Nord ** 
+ - **Master Web Intelligence et Science Des Données (WISD) à l'Université Sidi Mohamed Ben Abdallah de Fès**
+ - **Master Exploration Informatique Des Données Et Décisionnel (EID) l'Université Sorbonne Paris Nord ** 
 
 # Résumé du projet
 
