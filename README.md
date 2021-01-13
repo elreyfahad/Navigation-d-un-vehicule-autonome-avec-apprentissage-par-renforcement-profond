@@ -1,8 +1,12 @@
 # Navigation d'un véhicule autonome avec apprentissage par renforcement profond 
 
-Projet de fin d'etude en **Licence Sciences Mathematique et Informatique (2017/2018)**  à l'**Université Sidi Mohamed Ben Abdallah de Fès**
+Projet de fin d'etude en pour l'obtention d'un double master : 
+. **Master Web Intelligence et Science Des Données (WISD) à *l'Université Sidi Mohamed Ben Abdallah de Fès**
+. **Master Exploration Informatique Des Données Et Décisionnel (EID) *l'Université Sorbonne Paris Nord ** 
 
-L'irruption des véhicules autonomes dans le secteur des transports est irréversible. Toutefois,
+# Résumé du projet
+
+*L'irruption des véhicules autonomes dans le secteur des transports est irréversible. Toutefois,
 le passage des véhicules conventionnels aux véhicules autonomes ne se fera pas du jour au
 lendemain, mais sera un processus de plusieurs années au cours duquel, progressivement, de
 nouvelles fonctionnalités autonomes seront équipées des véhicules et présentées aux clients.
@@ -18,4 +22,11 @@ véhicule sera guidé par les données LIDAR provenant du capteur installé dans
 (capteur équipant la plupart des futurs véhicules autonomes). Les résultats ont montré qu'au
 fur et à mesure que l'apprentissage de la conduite progressait, la vitesse moyenne et le
 nombre de dépassements du véhicule augmentaient, tandis que le nombre de changements de
-voie du véhicule diminuaient.
+voie du véhicule diminuaient.*
+
+
+## Auteurs :
+- **SAID ABDEREMANE**
+
+## Encadrant :
+- **Pr. ALI YAHYAOUY **
